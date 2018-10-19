@@ -1,0 +1,17 @@
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\BOGDAN\Facultate\DotNet\Lab3\Laborator3\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb
